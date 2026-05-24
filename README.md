@@ -61,15 +61,7 @@ Aprendo mejor cuando puedo conectar la informática con temas que me gustan —c
 
 ---
 
-#  Formación
-
-- AZ‑900 — Microsoft Azure Fundamentals  
-- DP‑900 — Microsoft Data Fundamentals  
-- AWS Data Engineer (exámenes internos aprobados, certificación oficial pendiente)  
-
----
-
 #  Contacto
 
-*Daniel Sanz Alonso*
+*linkedin: Daniel Sanz Alonso*
 
