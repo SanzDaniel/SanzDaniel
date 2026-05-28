@@ -24,7 +24,8 @@ Aprendo mejor cuando puedo conectar la informática con temas que me gustan —c
 - dbt — modelado, tests, documentación  
 - PySpark — DataFrames, transformaciones  
 - Pandas / Polars — limpieza, análisis  
-- Power BI — modelado, DAX, dashboards, roles, multilenguaje  
+- Power BI — modelado, DAX, dashboards, roles, multilenguaje
+- Databricks
 
 ## 🔹 Sistemas, Redes y Seguridad
 - Windows, Linux/Unix  
