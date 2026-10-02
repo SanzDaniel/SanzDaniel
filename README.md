@@ -60,9 +60,4 @@ Aprendo mejor cuando puedo conectar la informática con temas que me gustan —c
 - Creación de dashboards e informes en Power BI, con DAX, roles, modelado y multilenguaje.  
 - Publicación y documentación completa del proyecto en GitHub.  
 
----
-
-#  Contacto
-
-*linkedin: Daniel Sanz Alonso*
 
